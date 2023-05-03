@@ -1,3 +1,5 @@
+// To  run this on the server just run "node fetch-test.js" in the terminal
+
 async function fetchData() {
   // Change the URL to where you host the JSON
   const response = await fetch(
